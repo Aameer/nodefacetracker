@@ -13,5 +13,5 @@ To run the test run.
 `node index.js`
 Then in your browser visit localhost:3000.
 You will need to give permission for your webcam and press start.
-Then give it a :smile: and see if detects it.
+Then give it a smile :smile: and see if detects it.
 
